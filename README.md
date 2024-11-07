@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm vaibhav auti</h1>
+<h1 align="center">Hi 👋, I'm Suyash mulay</h1>
 <h3 align="center">A passionate MERN Stack dev from India</h3>
 
 
