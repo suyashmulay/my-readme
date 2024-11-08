@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyash mulay</h1>
-<h3 align="center">A passionate MERN Stack dev from India</h3>
+<h3 align="center">A passionate Java dev from India</h3>
 
 
 <p align="left">
@@ -13,8 +13,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nobitaspeaks2711&theme=light" alt="GitHub Trophy" />
 </p>
 
-- 🔭 I’m currently working on Full Stack E-commerce Website
-- 🌱 I’m currently learning *MERN Stack ,https://30dc.graphy.com/s/courses/64eebdb8e4b0a14befedc15d/take*
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning *Java 
   
 - 👨‍💻 All of my projects are available at 
   
